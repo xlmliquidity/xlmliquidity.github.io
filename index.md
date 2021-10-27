@@ -8,28 +8,25 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Liquidity Pools
 
-### Header 3
-
 ```js
-GET /liquidity_pools?reserves={:reserves}&cursor={paging_token}&order={asc,desc}&limit={1-200}
+List Liquidity Pools
+
+GET    /liquidity_pools?reserves={:reserves}&cursor={paging_token}&order={asc,desc}&limit={1-200}
 ```
 
-### Header 3
+###
 
 ```js
 Endpoints
 
-GET
-	/liquidity_pools
-GET
-	/liquidity_pools/:liquidity_pool_id
-GET
-	/liquidity_pools/:liquidity_pool_id/effects
-GET
-	/liquidity_pools/:liquidity_pool_id/transactions
-GET
-	/liquidity_pools/:liquidity_pool_id/operations
+GET    /liquidity_pools
+GET    /liquidity_pools/:liquidity_pool_id
+GET    /liquidity_pools/:liquidity_pool_id/effects
+GET	   /liquidity_pools/:liquidity_pool_id/transactions
+GET    /liquidity_pools/:liquidity_pool_id/operations
 ```
+
+![GitHub Logo](/images/repo.svg)
 
 ### Support or Contact
 
@@ -38,6 +35,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 [Stellar Public Network Protocol 18 Upgrade Vote](https://status.stellar.org/incidents/d8d1phjglcr3) on Wed Nov 03 2021 at 17:00:00 GMT+0200 (Eastern European Standard Time)
 At this time, validators will vote on whether to upgrade to Stellar protocol 18. If the vote goes through, the network upgrade is immediate. To prepare, install up-to-date versions of any Stellar-related software you use. For more info, see Stellar.Org [Upgrade Guide](https://stellar.org/developers-blog/protocol-18-upgrade-guide)
-
-![GitHub Logo](/images/repo.svg)
 
