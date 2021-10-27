@@ -1,11 +1,10 @@
 # Stellar Blockchain Liquidity Provider
 
-### Liquidity Pools
-
 ![GitHub Logo](/images/joined.svg)
 
 [A reference codebase to serve as a proof of concept for an AMM UI](https://github.com/stellar/amm-reference-ui)
 
+### Liquidity Pools
 
 Connect your app to [Stellar Liquidity Pools](https://developers.stellar.org/api/resources/liquiditypools/)
 
@@ -40,19 +39,19 @@ Parameters         Type                      Description
 Liquidity Pool ID  liquidityPoolID           The PoolID for the Liquidity Pool to deposit into
 Max Amount A       integer                   Maximum amount of first asset to deposit
 Max Amount B       integer                   Maximum amount of second asset to deposit
-Min Price	       {numerator, denominator}  Minimum depositA/depositB
+Min Price          {numerator, denominator}  Minimum depositA/depositB
 Max Price          {numerator, denominator}  Maximum depositA/depositB
 ```
 
 ```js
 Liquidity Pool Withdraw
 
-Parameters         Type                      Description
+Parameters         Type                     Description
 
-Liquidity Pool ID  liquidityPoolID           The PoolID for the Liquidity Pool to withdraw from
-Amount             integer                   Amount of pool shares to withdraw
-Min Amount A       integer                   Minimum amount of the first asset to withdraw
-Min Amount B       integer                   Minimum amount of the second asset to withdraw
+Liquidity Pool ID  liquidityPoolID          The PoolID for the Liquidity Pool to withdraw from
+Amount             integer                  Amount of pool shares to withdraw
+Min Amount A       integer                  Minimum amount of the first asset to withdraw
+Min Amount B       integer                  Minimum amount of the second asset to withdraw
 ```
 
 ![GitHub Logo](/images/repo.svg)
