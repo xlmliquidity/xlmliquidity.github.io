@@ -1,4 +1,4 @@
-# Liquidity Provider on Stellar Blockchain
+# Stellar Blockchain Liquidity Provider
 
 ### Liquidity Pools
 
@@ -53,7 +53,9 @@ For more info, see Stellar.Org [Upgrade Guide](https://stellar.org/developers-bl
 
 ### XLM LIQUIDITY
 
-Add trustline
+XLM LIQUIDITY is a liquidity provider on Stellar blockchain.
+
+Add xlmLIQUIDITY trustline
 
 #### Code
 xlmLIQUIDITY
@@ -63,5 +65,7 @@ GBEAPUJKWP32U4HXGTSKJ4NPVBYY5JEKUBFWHSL7OUZGF4EZWACVM7W4
 
 #### Domain
 xlmliquidity.io
+
+#### QR Code
 
 ![Add Trustline](/images/trustline.png)

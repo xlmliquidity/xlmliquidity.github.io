@@ -8,8 +8,15 @@
 //  }
 // }
 
+.page-header {
+  color: $header-heading-color;
+  text-align: center;
+  background-color: $header-bg-color;
+  background-image: linear-gradient(to top, red, yellow);
+
  body {
     color: #ffffff;
     background-color: #0d1117;
   }
+
 
