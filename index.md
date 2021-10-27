@@ -32,6 +32,29 @@ GET /liquidity_pools/:liquidity_pool_id/transactions
 GET /liquidity_pools/:liquidity_pool_id/operations
 ```
 
+```js
+Liquidity Pool Deposit
+
+Parameters	Type	Description
+
+Liquidity Pool ID	liquidityPoolID         	The PoolID for the Liquidity Pool to deposit into
+Max Amount A    	integer                 	Maximum amount of first asset to deposit
+Max Amount B    	integer                 	Maximum amount of second asset to deposit
+Min Price	        {numerator, denominator}	Minimum depositA/depositB
+Max Price       	{numerator, denominator}	Maximum depositA/depositB
+```
+
+```js
+Liquidity Pool Withdraw
+
+Parameters	Type	Description
+
+Liquidity Pool ID	liquidityPoolID	The PoolID for the Liquidity Pool to withdraw from
+Amount          	integer	Amount of pool shares to withdraw
+Min Amount A       	integer	Minimum amount of the first asset to withdraw
+Min Amount B    	integer	Minimum amount of the second asset to withdraw
+```
+
 ![GitHub Logo](/images/repo.svg)
 
 [Developer discussion about possible changes to the protocol](https://github.com/stellar/stellar-protocol)
