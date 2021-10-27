@@ -13,7 +13,7 @@ Liquidity Pools work on Stellar `test network`
 
 On Wed Nov 03 2021 at 17:00:00 GMT+0200 (Eastern European Standard Time) validators will vote on whether to upgrade to Stellar protocol 18.
 
-If the vote goes through, the network upgrade is immediate, builders can connect they apps to `public network`, and user can start to use them.
+If the vote goes through, the network upgrade is immediate, builders can connect they apps to `public network` and user can start to use them.
 
 
 ```js
@@ -51,3 +51,17 @@ To prepare, install up-to-date versions of any Stellar-related software you use.
 
 For more info, see Stellar.Org [Upgrade Guide](https://stellar.org/developers-blog/protocol-18-upgrade-guide)
 
+### XLM LIQUIDITY
+
+Add trustline
+
+#### Code
+xlmLIQUIDITY
+
+#### Issuer
+GBEAPUJKWP32U4HXGTSKJ4NPVBYY5JEKUBFWHSL7OUZGF4EZWACVM7W4
+
+#### Domain
+xlmliquidity.io
+
+![Add Trustline](/images/trustline.png)
