@@ -51,9 +51,9 @@ To prepare, install up-to-date versions of any Stellar-related software you use.
 
 For more info, see Stellar.Org [Upgrade Guide](https://stellar.org/developers-blog/protocol-18-upgrade-guide)
 
-### XLM LIQUIDITY
+### xlmLIQUIDITY
 
-XLM LIQUIDITY is a liquidity provider on Stellar blockchain.
+xlmLIQUIDITY is a liquidity provider on Stellar blockchain.
 
 Add xlmLIQUIDITY trustline
 
