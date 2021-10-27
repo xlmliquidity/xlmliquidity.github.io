@@ -8,10 +8,15 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Liquidity Pools
 
-// Javascript code with syntax highlighting.
-GET /liquidity_pools?reserves={:reserves}&cursor={paging_token}&order={asc,desc}&limit={1-200}
+### Header 3
 
-// Javascript code with syntax highlighting.
+```js
+GET /liquidity_pools?reserves={:reserves}&cursor={paging_token}&order={asc,desc}&limit={1-200}
+```
+
+### Header 3
+
+```js
 Endpoints
 
 GET
@@ -24,7 +29,7 @@ GET
 	/liquidity_pools/:liquidity_pool_id/transactions
 GET
 	/liquidity_pools/:liquidity_pool_id/operations
-
+```
 
 ### Support or Contact
 
