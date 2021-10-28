@@ -84,6 +84,12 @@ For more info, see Stellar.Org [Upgrade Guide](https://stellar.org/developers-bl
 
 xlmLIQUIDITY is a liquidity provider on Stellar blockchain.
 
+Periodical coin burn every six months.
+
+Autostaking starts on Q1/2022 and is paid with USDC.
+
+<br/>
+
 Add xlmLIQUIDITY trustline
 
 #### Code
