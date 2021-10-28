@@ -5,7 +5,7 @@
 
 <a href="https://github.com/stellar/amm-reference-ui" target="_blank" class="center">A reference codebase to serve as a proof of concept for an AMM UI</a>
 
-<br/><br/>
+<br/>
 
 ### Liquidity Pools
 
@@ -77,6 +77,8 @@ If the vote goes through, the network upgrade is immediate.
 To prepare, install up-to-date versions of any Stellar-related software you use.
 
 For more info, see Stellar.Org [Upgrade Guide](https://stellar.org/developers-blog/protocol-18-upgrade-guide)
+
+<br/>
 
 ### xlmLIQUIDITY
 
