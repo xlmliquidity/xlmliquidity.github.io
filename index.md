@@ -2,7 +2,7 @@
 
 ![GitHub Logo](/images/joined.svg)
 
-[A reference codebase to serve as a proof of concept for an AMM UI](https://github.com/stellar/amm-reference-ui)
+
 <a href="https://github.com/stellar/amm-reference-ui" target="_blank" class="center">A reference codebase to serve as a proof of concept for an AMM UI</a>
 
 ### Liquidity Pools
@@ -57,7 +57,7 @@ Min Amount B       integer                  Minimum amount of the second asset t
 
 ![GitHub Logo](/images/repo.svg)
 
-[Developer discussion about possible changes to the protocol](https://github.com/stellar/stellar-protocol)
+<a href="https://github.com/stellar/amm-reference-ui" target="_blank" class="center">A reference codebase to serve as a proof of concept for an AMM UI</a>
 
 
 ### Protocol 18
