@@ -12,7 +12,7 @@ Liquidity Pools work on Stellar `test network`
 
 On Wed Nov 03 2021 at 17:00:00 GMT+0200 (Eastern European Standard Time) validators will vote on whether to upgrade to Stellar protocol 18.
 
-If the vote goes through, the network upgrade is immediate, builders can connect they apps to `public network` and user can start to use them.
+If the vote goes through, the network upgrade is immediate, builders can connect they apps to `public network` and user can start to use them and earn interest.
 
 
 ```js
