@@ -17,12 +17,15 @@
 a {
   color: $body-link-color;
   text-decoration: none;
-  text-align:center;
-  display:block;
 
   &:hover {
     text-decoration: underline;
   }
+}
+
+.center {
+  text-align:center;
+  display:block;
 }
 }
 
