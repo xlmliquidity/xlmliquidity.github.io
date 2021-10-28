@@ -5,6 +5,8 @@
 
 <a href="https://github.com/stellar/amm-reference-ui" target="_blank" class="center">A reference codebase to serve as a proof of concept for an AMM UI</a>
 
+<br/><br/>
+
 ### Liquidity Pools
 
 Connect your app to [Stellar Liquidity Pools](https://developers.stellar.org/api/resources/liquiditypools/)
@@ -15,6 +17,7 @@ On Wed Nov 03 2021 at 17:00:00 GMT+0200 (Eastern European Standard Time) validat
 
 If the vote goes through, the network upgrade is immediate, builders can connect they apps to `public network` and user can start to use them and earn interest.
 
+<br/>
 
 ```js
 List Liquidity Pools
@@ -59,6 +62,7 @@ Min Amount B       integer                  Minimum amount of the second asset t
 
 <a href="https://github.com/stellar/amm-reference-ui" target="_blank" class="center">A reference codebase to serve as a proof of concept for an AMM UI</a>
 
+<br/>
 
 ### Protocol 18
 
