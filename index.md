@@ -72,7 +72,7 @@ Stellar Protocol 18 enables the creation of Automated Market Makers (AMMs).
 
 At this time, validators will vote on whether to upgrade to Stellar protocol 18.
 
-If the vote goes through then the network upgrade is immediate.
+If the vote goes through, the network upgrade is immediate.
 
 To prepare, install up-to-date versions of any Stellar-related software you use.
 
