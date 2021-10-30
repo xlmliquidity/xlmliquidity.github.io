@@ -9,7 +9,7 @@ ACCOUNTS=[
 
 [DOCUMENTATION]
 ORG_NAME="XLM LIQUIDITY"
-ORG_LOGO="https://https://xlmliquidity.io/images/image4.png"
+ORG_LOGO="https://xlmliquidity.io/images/image4.png"
 ORG_DESCRIPTION="Providing liquidity to several projects on Stellar blockchain."
 
 [[CURRENCIES]]
