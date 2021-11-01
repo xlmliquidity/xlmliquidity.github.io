@@ -9,7 +9,7 @@ ACCOUNTS=[
 
 [DOCUMENTATION]
 ORG_NAME="XLM LIQUIDITY"
-ORG_LOGO="https://xlmliquidity.io/images/round-image.png"
+ORG_LOGO="https://xlmliquidity.io/images/logo.png"
 ORG_DESCRIPTION="Providing liquidity to several projects on Stellar blockchain."
 
 [[CURRENCIES]]
@@ -19,5 +19,5 @@ display_decimals=7
 name="XLM Liquidity"
 desc="Providing liquidity to several projects on Stellar blockchain."
 conditions="10,000,000,000 issued"
-image="https://xlmliquidity.io/images/round-image.png"
+image="https://xlmliquidity.io/images/logo.png"
 
